@@ -1,7 +1,7 @@
 ![logo](https://github.com/priyanshuraj009/priyanshuraj009/blob/main/gitbanner.png)
 <h1 align="center">Hello 👋, I am Priyanshu Raj</h1>
 <h3 align="center">Starved For Insights!</h3>
-<img align="right" alt="Data" width="400" src="https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif">
+<img align="right" alt="Data" width="400" src="https://media3.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif?cid=ecf05e47o4gcpxecmho8byfhgrr2zwn844a40dc7bqx0knx7&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuraj009&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuraj009" /> </p>
 
 - 🌱 I’m currently learning **DSA in JAVA**
