@@ -1,4 +1,4 @@
-![logo](https://github.com/priyanshuraj009/priyanshuraj009/blob/main/bannergithub.png)
+![logo](https://github.com/priyanshuraj009/priyanshuraj009/blob/main/gitbanner.png)
 <h1 align="center">Hello 👋, I am Priyanshu Raj</h1>
 <h3 align="center">Starved For Insights!</h3>
 <img align="right" alt="Data" width="400" src="https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif">
