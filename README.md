@@ -4,13 +4,13 @@
 <img align="right" alt="Data" width="400" src="https://media3.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif?cid=ecf05e47o4gcpxecmho8byfhgrr2zwn844a40dc7bqx0knx7&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuraj009&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuraj009" /> </p>
 
-- 🌱 I’m currently learning **DSA in JAVA**
+- 🌱 Data 
 
-- 💬 Ask me about **python, sql and games**
+- 💬 Ask me about **Data Science**
 
 - 📫 E-Mail **priyanshurajpiyush@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mrpxW6CTZxjq_rybHPLZM2bkjJ6gzpl8/view?usp=sharing](https://drive.google.com/file/d/1mrpxW6CTZxjq_rybHPLZM2bkjJ6gzpl8/view?usp=sharing)
+- 📄 Know about my experiences [View!](https://drive.google.com/file/d/180TzQvAZ8O-5xWDyBOp6HoHSts7CB7hj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
