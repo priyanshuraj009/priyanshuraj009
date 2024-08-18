@@ -1,7 +1,7 @@
 ![Banner](https://github.com/priyanshuraj009/priyanshuraj009/blob/main/gitbanner.png)
 
 <h1 align="center">Hi, I'm Priyanshu Raj</h1>
-<h3 align="center">Aspiring Data Scientist | Tech Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Data Science Graduate | Tech Enthusiast | Lifelong Learner</h3>
 
 
 <p align="left"> 
