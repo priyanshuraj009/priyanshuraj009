@@ -16,7 +16,7 @@
 - 🌱 Deepening my knowledge in **Data Science** and **AIML**.
 - 💬 Ask me about **Anime** or anything related to **Data Science**.
 - 📫 Reach me at **priyanshurajpiyush@gmail.com**
-- 📄 [Check out my Resume](https://drive.google.com/file/d/180TzQvAZ8O-5xWDyBOp6HoHSts7CB7hj/view?usp=sharing)
+- 📄 [Check out my Resume](https://drive.google.com/file/d/1YLRXxlpMQOv4ZRSlb69wiheM95IX2Hzi/view?usp=sharing)
 
 ## 🌐 Connect with Me
 <p align="left">
