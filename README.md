@@ -3,7 +3,6 @@
 <h1 align="center">Hi, I'm Priyanshu Raj</h1>
 <h3 align="center">Aspiring Data Scientist | Tech Enthusiast | Lifelong Learner</h3>
 
-<img align="right" alt="Data Science" width="400" src="https://media3.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif?cid=ecf05e47o4gcpxecmho8byfhgrr2zwn844a40dc7bqx0knx7&rid=giphy.gif&ct=g">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=priyanshuraj009&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
