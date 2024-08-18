@@ -20,8 +20,6 @@
 - 📄 [Check out my Resume](https://drive.google.com/file/d/180TzQvAZ8O-5xWDyBOp6HoHSts7CB7hj/view?usp=sharing)
 
 ## 🌐 Connect with Me
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/priyanshuraj009" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
