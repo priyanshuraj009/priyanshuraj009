@@ -14,7 +14,7 @@
 ## 🌟 About Me
 
 - 🎓 **Student | Data Science | Gamer**
-- 🌱 I’m currently deepening my knowledge in **Data Science** and **Machine Learning**.
+- 🌱 Deepening my knowledge in **Data Science** and **Machine Learning**.
 - 💬 Ask me about **Anime** or anything related to **Data Science**.
 - 📫 Reach me at **priyanshurajpiyush@gmail.com**
 - 📄 [Check out my Resume](https://drive.google.com/file/d/180TzQvAZ8O-5xWDyBOp6HoHSts7CB7hj/view?usp=sharing)
