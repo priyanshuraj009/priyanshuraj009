@@ -25,7 +25,7 @@
   <a href="https://linkedin.com/in/priyanshuraj009" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/priyanshu_raj_009" target="blank">
+  <a href="https://www.instagram.com/priyanshu_raj_009/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/priyanshu_009" target="blank">
