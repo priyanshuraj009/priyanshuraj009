@@ -67,8 +67,4 @@
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshuraj009&show_icons=true&locale=en&layout=compact" alt="priyanshuraj009" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshuraj009&show_icons=true&locale=en" alt="priyanshuraj009" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuraj009&" alt="priyanshuraj009" /></p>
