@@ -1,7 +1,7 @@
 ![Banner](https://github.com/priyanshuraj009/priyanshuraj009/blob/main/gitbanner.png)
 
 <h1 align="center">Hi, I'm Priyanshu Raj</h1>
-<h3 align="center">Data Science Graduate | Tech Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Associate Prompt Engineer @ NVIDIA | AI & LLM Specialist | Data Science Graduate</h3>
 
 
 <p align="left"> 
@@ -12,10 +12,13 @@
 
 ## 🌟 About Me
 
-- 🎓 **Student | Data Science | Gamer**
-- 🌱 Deepening my knowledge in **Data Science** and **AIML**.
-- 💬 Ask me about **Anime** or anything related to **Data Science**.
-- 📫 Reach me at **priyanshurajpiyush@gmail.com**
+- 🎓 **B.Tech in CS & Data Science** from Presidency University Bangalore
+- 💼 Currently working as **Associate Prompt Engineer at NVIDIA**
+- 🧠 Specializing in **Chain-of-Thought Prompting**, **LLM Training**, and **AV Perception Data**
+- 🚀 Building training data for next-gen AI models and autonomous vehicles
+- 🌱 Deepening expertise in **Generative AI**, **RLHF**, and **Prompt Engineering**
+- 💬 Ask me about **LLMs**, **Data Science**, **ML**, or **Anime**
+- 📫 Reach me at **ipriyanshu009@gmail.com**
 
 ## 🌐 Connect with Me
 <p align="left">
